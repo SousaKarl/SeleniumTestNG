@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-19T10:29:51 UTC" name="Default suite" finished-at="2023-09-19T10:29:57 UTC" duration-ms="5508">
+    <groups>
+    </groups>
+    <test started-at="2023-09-19T10:29:51 UTC" name="Default test" finished-at="2023-09-19T10:29:57 UTC" duration-ms="5508">
+      <class name="com.first.FirstTestNG">
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:com.first.FirstTestNG@6f1de4c7]" started-at="2023-09-19T10:29:51 UTC" name="setupTest" finished-at="2023-09-19T10:29:55 UTC" duration-ms="4290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="Acceptcookie()[pri:0, instance:com.first.FirstTestNG@6f1de4c7]" started-at="2023-09-19T10:29:55 UTC" name="Acceptcookie" finished-at="2023-09-19T10:29:56 UTC" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Acceptcookie -->
+        <test-method is-config="true" signature="down()[pri:0, instance:com.first.FirstTestNG@6f1de4c7]" started-at="2023-09-19T10:29:56 UTC" name="down" finished-at="2023-09-19T10:29:57 UTC" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- down -->
+      </class> <!-- com.first.FirstTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
