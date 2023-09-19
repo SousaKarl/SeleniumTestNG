@@ -61,7 +61,7 @@ public class FirstTestNG {
 		
 		driver.close();
 		driver.quit();
-		System.out.println("Test Passed successfully");
+		System.out.println("Test Passed successfully1");
 	}
 	
 
